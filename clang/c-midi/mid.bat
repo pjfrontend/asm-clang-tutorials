@@ -1,0 +1,1 @@
+C:\MinGW\bin\gcc -o mid.exe ./midi.c -mwindows -LC:\v7.1\Lib -lwinmm

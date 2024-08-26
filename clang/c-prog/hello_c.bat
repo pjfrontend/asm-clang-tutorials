@@ -1,0 +1,1 @@
+C:\MinGW\bin\gcc -o hello.exe ./hellow.c -mwindows
