@@ -1,0 +1,1 @@
+C:\MinGW\bin\gcc *.c -lmingw32 -o inter
