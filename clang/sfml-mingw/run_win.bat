@@ -1,0 +1,1 @@
+g++ *.cpp -o game -IC:\SFML-2.5.1\include -LC:\SFML-2.5.1\lib -w -Wl,-subsystem,windows -lmingw32 -l sfml-system -l sfml-window -l sfml-graphics -l sfml-audio -l sfml-network
