@@ -1,0 +1,9 @@
+$0000#DEVELO#F0
+$C002#LoadPalettes#0
+$C036#Forever#0
+$C011#LoadPalettesLoop#0
+$0000#CDROM#F0
+$0001#MAGICKIT#F0
+$E000#PaletteData#1
+$C000#RESET#0
+$C039#NMI#0
