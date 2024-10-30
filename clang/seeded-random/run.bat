@@ -1,1 +1,0 @@
-C:\MinGW\bin\g++ *.cpp -lmingw32 -o rnd
